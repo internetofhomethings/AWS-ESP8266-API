@@ -35,37 +35,33 @@ See section "Table used by SparkGetItemSample and GalileoSample:"
 
 The serial port output from this request will look similar to this:
 
-------------------------------------------
-Loop start time:  20150810210943 GMT
+Loop start time:  20150810210943 GMT<br>
 Current Free Heap:21864
-------------------------------------------
 
-GetItem succeeded!
-Red value read:   125
-Green value read: 107
-Blue value read:  107
+GetItem succeeded!<br>
+Red value read:   125<br>
+Green value read: 107<br>
+Blue value read:  107<br>
 
 
-PutItem succeeded!
-Red set to:       126
-Green set to:     108
-Blue set to:      108
+PutItem succeeded!<br>
+Red set to:       126<br>
+Green set to:     108<br>
+Blue set to:      108<br>
 
-------------------------------------------
-Loop start time:  20150810211000 GMT
+Loop start time:  20150810211000 GMT<br>
 Current Free Heap:21864
-------------------------------------------
 
-GetItem succeeded!
-Red value read:   126
-Green value read: 108
-Blue value read:  108
+GetItem succeeded!<br>
+Red value read:   126<br>
+Green value read: 108<br>
+Blue value read:  108<br>
 
 
-PutItem succeeded!
-Red set to:       127
-Green set to:     109
-Blue set to:      109
+PutItem succeeded!<br>
+Red set to:       127<br>
+Green set to:     109<br>
+Blue set to:      109<br>
 
 Two iterations of the loop() function are shown above. Each iteration has-
 
