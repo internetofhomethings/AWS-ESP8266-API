@@ -303,7 +303,7 @@ void awsSetRGB(int *R, int *G, int *B) {
             Serial.print("Blue set to:      "); 
             Serial.println(*B);
             Serial.print("\n"); 
-=ojhv             break;
+            break;
         case INVALID_REQUEST_ACTIONERROR:
             Serial.print("ERROR: ");
             Serial.println(putItemOutput.getErrorMessage().getCStr());
